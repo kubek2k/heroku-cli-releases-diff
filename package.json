@@ -1,18 +1,18 @@
 {
-  "name": "heroku-releases-diff",
+  "name": "heroku-cli-releases-diff",
   "version": "1.0.0",
   "description": "Heroku release configurations diff",
   "main": "index.js",
   "author": "Jakub Janczak @kubek2k",
-  "repository": "https://github.com/kubek2k/heroku-releases-diff",
+  "repository": "https://github.com/kubek2k/heroku-cli-releases-diff",
   "bugs": {
-    "url": "https://github.com/kubek2k/heroku-cli-csv/issues"
+    "url": "https://github.com/kubek2k/heroku-cli-releases-diff/issues"
   },
   "keywords": [
     "heroku-plugin",
     "cli",
-    "config",
-    "release"
+    "release",
+    "diff"
   ],
   "license": "ISC",
   "scripts": {
