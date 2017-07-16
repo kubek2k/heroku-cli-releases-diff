@@ -1,0 +1,29 @@
+{
+  "name": "heroku-releases-diff",
+  "version": "1.0.0",
+  "description": "Heroku release configurations diff",
+  "main": "index.js",
+  "author": "Jakub Janczak @kubek2k",
+  "repository": "https://github.com/kubek2k/heroku-releases-diff",
+  "bugs": {
+    "url": "https://github.com/kubek2k/heroku-cli-csv/issues"
+  },
+  "keywords": [
+    "heroku-plugin",
+    "cli",
+    "config",
+    "release"
+  ],
+  "license": "ISC",
+  "scripts": {
+    "test": "eslint ."
+  },
+  "dependencies": {
+    "diff": "^3.3.0",
+    "heroku-cli-util": "^5.7.1"
+  },
+  "devDependencies": {
+    "eslint": "^1.10.3",
+    "eslint-config-vgno": "^5.0.0"
+  }
+}
