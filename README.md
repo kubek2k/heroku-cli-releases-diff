@@ -11,7 +11,7 @@ heroku plugins:install heroku-cli-releases-diff
 ## Usage
 
 ```
-heroku releases:diff <versionFrom> <versionTo>
+heroku releases:diff <releaseFrom> <releaseTo>
 ```
 
 ## Example 
