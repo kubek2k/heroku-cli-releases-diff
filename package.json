@@ -1,6 +1,6 @@
 {
   "name": "heroku-cli-releases-diff",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Heroku release configurations diff",
   "main": "index.js",
   "author": "Jakub Janczak @kubek2k",
@@ -25,5 +25,6 @@
   "devDependencies": {
     "eslint": "^1.10.3",
     "eslint-config-vgno": "^5.0.0"
-  }
+  },
+  "files": ["index.js"]
 }
